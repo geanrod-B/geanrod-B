@@ -1,16 +1,20 @@
 <h1>👋🏻Olá, me chamo Gean Rodrigues👋🏻</h1>
 
 ###
+  <body>
+    <h2> 
 
-<body><h2>👨🏻‍🎓Atualmente estou estudando Cientista de Dados. 
+    ❌ Ainda não trabalho na área, mas já estou ansioso para trabalhar.
   
-  ❌ Ainda, não trabalho na área, mas já estou ansioso.
+    🎂 Tenho 27.
 
-  
+    👨🏻‍🎓 Atualmente estou estudando Cientista de Dados. 
+
+    💻 Apaixonado por Tecnologia.
+
+    📚 Cursando na EBAC 
   </h2>
-    
-
-</body>
+  </body>
 
 <h2 align="left">Estou esstudando:</h2>
 
