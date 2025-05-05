@@ -6,7 +6,7 @@
 
     ❌ Ainda não trabalho na área, mas já estou ansioso para trabalhar.
   
-    🎂 Tenho 27.
+    🎂 Tenho 27 anos.
 
     👨🏻‍🎓 Atualmente estou estudando Cientista de Dados. 
 
