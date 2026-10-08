@@ -6,11 +6,10 @@
 
     🎂 Tenho 27 anos.
 
-    👨🏻‍🎓 Atualmente estou estudando Cientista de Dados. 
-
+    👨🏻‍🎓 Cientista de Dados
     💻 Apaixonado por Tecnologia.
 
-    📚 Cursando na EBAC 
+    📚 EBAC
   </h2>
   </body>
 
