@@ -6,7 +6,8 @@
 
     🎂 Tenho 27 anos.
 
-    👨🏻‍🎓 Cientista de Dados
+       Cientista de Dados
+       
     💻 Apaixonado por Tecnologia.
 
     📚 EBAC
