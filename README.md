@@ -14,7 +14,7 @@
   </h2>
   </body>
 
-<h2 align="left">Estou esstudando:</h2>
+<h2 align="left">Conhecimento em:</h2>
 
 ###
 
